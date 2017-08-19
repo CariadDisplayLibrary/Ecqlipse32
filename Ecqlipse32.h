@@ -78,7 +78,7 @@ namespace Ecqlipse32 {
     extern const uint8_t FileDll[];
     extern const uint8_t FileExecutable[];
     extern const uint8_t FileFont[];
-    extern const uint8_t FileFont.a[];
+    extern const uint8_t FileFonta[];
     extern const uint8_t FileInternet[];
     extern const uint8_t FileMovie[];
     extern const uint8_t FilePicture[];
@@ -86,7 +86,7 @@ namespace Ecqlipse32 {
     extern const uint8_t FileText[];
     extern const uint8_t FileZip[];
     extern const uint8_t Firefox[];
-    extern const uint8_t Firewall.[];
+    extern const uint8_t Firewall[];
     extern const uint8_t FlashDevelop[];
     extern const uint8_t FlashFxp[];
     extern const uint8_t Floppy[];
@@ -176,7 +176,7 @@ namespace Ecqlipse32 {
     extern const uint8_t MsVisualStudio2008[];
     extern const uint8_t MsVisualWebDeveloperExpress[];
     extern const uint8_t MsWindows7[];
-    extern const uint8_t MsWindows7.a[];
+    extern const uint8_t MsWindows7a[];
     extern const uint8_t MsWord[];
     extern const uint8_t NeedForSpeed[];
     extern const uint8_t Nero[];
@@ -194,7 +194,7 @@ namespace Ecqlipse32 {
     extern const uint8_t Notepad[];
     extern const uint8_t Objectdock[];
     extern const uint8_t Opera[];
-    extern const uint8_t Paint.net[];
+    extern const uint8_t Paintnet[];
     extern const uint8_t PartitionMagic[];
     extern const uint8_t Pcmcia[];
     extern const uint8_t Pda[];
