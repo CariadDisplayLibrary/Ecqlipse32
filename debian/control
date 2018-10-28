@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Icons
 Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
 Provides: Ecqlipse32.h
-Description: Ecqlipse32 library
+Description: Ecqlipse32
  Ecqlipse icon set in 32x32 pixel format for the MonoIcon widget system
 
 
